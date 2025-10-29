@@ -3,5 +3,4 @@ INC2408984
 INC2409044
 SCTASK0350606
 INC2409670
-Hello Semi 
-hello all
+Hello Semi and 
